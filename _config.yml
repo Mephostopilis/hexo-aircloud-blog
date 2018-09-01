@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AirCloud Blog
+title: 少儿机器人创客中心
 subtitle: sometimes code， sometimes design
-author: Xiaotao Nie
+author: 机器人胡老师
 language: zh
 timezone:
 
@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: AirCloud的博客 | AirCloud's Blog
+SEOTitle: 少儿机器人创客中心 | Robot's Blog
 header-img: img/home-bg.jpg
 email: onlythen@yeah.net
 description: "聂小涛的博客"
@@ -60,7 +60,7 @@ comment:
   id: e50d4ac843237938a04f
   secret: 73c477ee48d5a333c387430d7f37ac6b25a6b077
   owner: mephostopilis
-  repo: hexo-aircloud-blog
+  repo: mephostopilis.github.io
 
 donate:
   img: img/donate.jpg
