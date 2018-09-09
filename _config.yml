@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 少儿机器人创客中心
+title: 星火创客教育
 subtitle: sometimes code， sometimes design
 author: 机器人胡老师
 language: zh
@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kaijun.rocks/
+url: https://blog.918.zone/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -22,9 +22,9 @@ permalink_defaults:
 # 网站综合内容设置：
 SEOTitle: 少儿机器人创客中心 | Robot's Blog
 header-img: img/home-bg.jpg
-email: onlythen@yeah.net
-description: "聂小涛的博客"
-keyword: "腾讯"
+email: gstemrobot2018@163.com
+description: "胡老师的博客"
+keyword: "少儿机器人"
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
@@ -47,8 +47,8 @@ friends: [
         title: "10000H",
         href: "https://www.10000h.top"
     },{
-        title: "Xiaotao's Page",
-        href: "https://niexiaotao.com"
+        title: "Robot's Page",
+        href: "https://918.zone"
     },{
         title: "It helps SEO",
         href: "#"
