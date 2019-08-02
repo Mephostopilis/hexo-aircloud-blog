@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 星火创客教育
+title: find
 subtitle: sometimes code， sometimes design
-author: 机器人胡老师
+author: 神秘後臺0731
 language: zh
 timezone:
 
@@ -20,11 +20,11 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: 少儿机器人创客中心 | Robot's Blog
+SEOTitle: coding日志 | Robot's Blog
 header-img: img/home-bg.jpg
 email: gstemrobot2018@163.com
-description: "胡老师的博客"
-keyword: "少儿机器人"
+description: "神秘後臺"
+keyword: "erlang"
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
@@ -131,4 +131,3 @@ theme: hexo-theme-aircloud
 #  type: git
 #  repo: your repo url
 #  branch: master
-
